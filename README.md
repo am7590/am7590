@@ -2,6 +2,17 @@
 
 I like to tinker with **mobile systems, backend infrastructure, and applied AI/ML**.
 
+# 💼 Experience
+### Bryx – Software Engineer 
+
+Worked on mobile applications used by public safety agencies and supporting backend services.
+
+Highlights:
+- Built and maintained production iOS systems used by emergency responders
+- Worked across mobile clients and backend services supporting real-time messaging
+- Contributed to infrastructure supporting mission-critical communications
+- Experimented with building ML pipelines
+
 
 # 🤓 Projects
 ## 📱 Mobile Development
