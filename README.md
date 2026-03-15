@@ -32,7 +32,7 @@ A native iOS and Android plant care application exploring plant health tracking,
   https://github.com/am7590/PlantPal
 
 - iOS app (newer architecture)  
-  https://github.com/am7590/PlantPal3
+  (private for now)
 
 - Android version  
   https://github.com/am7590/PlantAndSucculentApp-Android
